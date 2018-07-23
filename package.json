@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "pulp build --main Main --to dist/example.js"
+  }
+}
